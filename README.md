@@ -4,15 +4,15 @@ This is a minimal React example showcasing the use of the CAI JavaScript library
 
 ## Prerequisites
 
-If you haven't already done so, install [Yarn](https://yarnpkg.com/getting-started/install).
+If you haven't already done so, install [npm](https://yarnpkg.com/getting-started/install).
 
 ## Build and run
 
 ```sh
-cd c2pa-js-examples/react-ts-vite
-yarn install
-yarn dev
+cd react-ts-vite
+npm install
+npm run dev
 ```
 
-Then, visit http://localhost:3000/ in your browser.
+Then, visit http://localhost:5173/ in your browser.
 
