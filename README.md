@@ -4,7 +4,7 @@ This is a minimal React example showcasing the use of the CAI JavaScript library
 
 ## Prerequisites
 
-If you haven't already done so, install [npm](https://yarnpkg.com/getting-started/install).
+If you haven't already done so, install `npm`.
 
 ## Build and run
 
